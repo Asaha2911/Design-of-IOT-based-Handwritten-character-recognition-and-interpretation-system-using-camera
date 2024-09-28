@@ -1,0 +1,1 @@
+# Design-of-IOT-based-Handwritten-character-recognition-and-interpretation-system-using-camera
